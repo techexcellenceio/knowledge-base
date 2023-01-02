@@ -8,9 +8,9 @@
 - [ATDD-Example-Test-Driven-Development](https://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
 
 ## Videos
-- [Robert "Uncle Bob" Martin Clean Code: Advanced TDD](https://cleancoders.com/library/all)
 
 ## Blogs
 
 ## Courses
+- [Robert "Uncle Bob" Martin Clean Code: Advanced TDD](https://cleancoders.com/library/all)
 - [FR - artisan developpeur - Benoit Gantaume](https://compagnon.artisandeveloppeur.fr/courses)
