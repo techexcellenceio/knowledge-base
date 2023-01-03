@@ -13,7 +13,7 @@ CC BY 4.0 International
 
 ## Contributors
 
-To contribute, please see instructions [contributing](CONTRIBUTING.md)
+To contribute, please see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
 
 - [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/) ([valentinacupac](https://github.com/valentinacupac))
 - [Joffrey Bonifay](https://www.linkedin.com/in/joffrey-bonifay/) ([joffreybonifay](https://github.com/JBonifay))
