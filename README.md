@@ -13,6 +13,8 @@ CC BY 4.0 International
 
 ## Contributors
 
+The source for the knowledge base is https://github.com/techexcellenceio/knowledge-base and it is hosted on http://kb.techexcellence.io/
+
 To contribute, please see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
 
 - [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/) ([valentinacupac](https://github.com/valentinacupac))
