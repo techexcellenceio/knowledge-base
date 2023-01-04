@@ -1,5 +1,7 @@
 # Knowledge Base
 
+[![pages-build-deployment](https://github.com/techexcellenceio/knowledge-base/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/techexcellenceio/knowledge-base/actions/workflows/pages/pages-build-deployment)
+
 Welcome to the Tech Excellence knowledge base.
 
 - [Resources](resources.md)
