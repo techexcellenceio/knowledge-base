@@ -51,3 +51,12 @@ English:
 
 English / French:
 - [Software Craft Luxembourg](https://www.meetup.com/software-craft-luxembourg/)
+
+## YouTube Channels
+
+English:
+- [Tech Excellence](https://www.youtube.com/@TechExcellence)
+- [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
+
+English / French:
+- [Software Craftsmanship Luxembourg](https://www.youtube.com/@softwarecraftsmanshipluxem8137)
