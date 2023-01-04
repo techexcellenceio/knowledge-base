@@ -2,6 +2,8 @@
 
 ## Books
 
+<!--- TODO: VC -> JB: I saw you had Test Driven Development as a title, but I see we also need languages too, I don't know if it should be by language, and then later subcategorize? -->
+
 English:
 - [Test Driven Development: By Example (Kent Beck)](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4)
 - [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better (Jeff Langr)](https://www.amazon.com/Modern-Programming-Test-Driven-Development-Better-ebook/dp/B00HUEG8M8)
