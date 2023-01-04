@@ -41,3 +41,11 @@ English:
 
 French:
 - [FR - artisan developpeur - Benoit Gantaume](https://compagnon.artisandeveloppeur.fr/courses)
+
+## Meetups
+
+English:
+- [Tech Excellence](https://www.meetup.com/techexcellence/)
+
+English / French:
+- [Software Craft Luxembourg](https://www.meetup.com/software-craft-luxembourg/)
