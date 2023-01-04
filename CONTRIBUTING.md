@@ -20,6 +20,6 @@ This is important for the following reasons:
 From a legal perspective, ideas themselves are NOT copyrighted, only the expression of ideas is copyrighted - this is referred to as the idea/expression dichotomy. So for example, the idea of TDD is NOT copyrighted (similarly other ideas arebn't copyrighted either), but a particular expression of the idea (e.g. copy-pasting a sentence from some TDD book, some Unit Testing book, etc.) IS copyrighted.
 
 For that reason:
-- For any IDEAS, you are not legally obligated to reference the source because ideas aren't owned. But it's still "nice" to reference them, so that the reader can read more.
+- For any IDEAS, you are not legally obligated to reference the source because ideas aren't owned. So for example, when I write about the TDD Red-Green-Refactor cycle and describe in my own words that cycle, then that's fine. It is however, _useful_ for me to reference the source of who invented the idea where possible, even though I am not legally obligated to do so.
 - For EXPRESSION of ideas, you are legally obligated to reference the source because the expression IS under copyright of the original author. See section "Quoting Text"
 
