@@ -1,5 +1,9 @@
 # Different types of test
 
+Disclaimer: Please note that this page is under intensive "draft" mode, so it is being actively updated.
+
+If you want to add anything or make corrections, please see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
+
 ## Unit tests
 
 - Unit tests help to refactor,
