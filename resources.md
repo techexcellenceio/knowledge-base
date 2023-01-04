@@ -1,5 +1,7 @@
 # Resources
 
+If you want to add anything or make corrections, please see instructions [contributing](CONTRIBUTING.md).
+
 ## Books
 
 <!--- TODO: VC -> JB: I saw you had Test Driven Development as a title, but I see we also need languages too, I don't know if it should be by language, and then later subcategorize? -->
