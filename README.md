@@ -5,7 +5,7 @@
 Welcome to the Tech Excellence knowledge base.
 
 - [Resources](resources.md)
-
+- [Test Driven Development](test-driven-development.md)
 
 ## Licence
 
@@ -15,7 +15,7 @@ CC BY 4.0 International
 
 ## Contributors
 
-The source for the knowledge base is https://github.com/techexcellenceio/knowledge-base and it is hosted on http://kb.techexcellence.io/
+The source for the knowledge base is on [GitHub](https://github.com/techexcellenceio/knowledge-base).
 
 To contribute, please see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
 
