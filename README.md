@@ -17,7 +17,7 @@ CC BY 4.0 International
 
 The source for the knowledge base is on [GitHub](https://github.com/techexcellenceio/knowledge-base).
 
-To contribute, please see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
-
 - [Valentina Cupać](https://www.linkedin.com/in/valentinacupac/) ([valentinacupac](https://github.com/valentinacupac))
 - [Joffrey Bonifay](https://www.linkedin.com/in/joffrey-bonifay/) ([joffreybonifay](https://github.com/JBonifay))
+
+Our KB is currently in very early development stage. We welcome contributions and new contributors. Any pages you see on the KB are open to continuous revision. We are aware there are multiple interpretations and approaches, so perhaps you want to add your perspective or make corrections. To contribute, pease see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
