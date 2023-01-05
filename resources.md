@@ -42,7 +42,7 @@ English:
 - [Robert "Uncle Bob" Martin Clean Code: Advanced TDD](https://cleancoders.com/library/all)
 
 French:
-- [FR - artisan developpeur - Benoit Gantaume](https://compagnon.artisandeveloppeur.fr/courses)
+- [Artisan developpeur (Benoit Gantaume)](https://compagnon.artisandeveloppeur.fr/courses)
 
 ## Meetups
 
