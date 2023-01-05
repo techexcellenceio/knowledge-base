@@ -1,8 +1,13 @@
-# Different types of test
 
 Disclaimer: Please note that this page is under intensive "draft" mode, so it is being actively updated.
 
 If you want to add anything or make corrections, please see instructions [contributing](CONTRIBUTING.md). You can also join our [Discord discussions](https://discord.gg/9b4dWYdHqS).
+
+# History
+
+TODO: Add the history of TDD, and the key people involved in development
+
+# Different types of test
 
 ## Unit tests
 
@@ -10,11 +15,19 @@ If you want to add anything or make corrections, please see instructions [contri
 - Unit tests remove *fear of change*
 - Unit tests protect us to break something
 
+TODO: Add Fowler's article where he remarks that there were so many different definitions of unit test evne when XP began, and the classification sociable vs solitary unit test. Explain difference interaction-based vs state-based vs output-based verifification.
+
 ## Integration tests
+
+TODO: Definition of integration test - different variants. For example, with sociable unit test, tests spanning multiple classes are NOT integration tests per se, they are still unit tests.... But with solitary unit test, tests spanning multiple classes are integration tests... Do intgeration tests include or not include business logic? (the two interpretations)
 
 ## Acceptance tests
 
+TODO: Interpretation of acceptance tests from e2e perspective (that's what many people see this as) - testing from the end user.... vs unit tests being acceptance tests (quoting Ian Cooper's video TDD Revisited)
+
 ## End-to-end tests
+
+TODO: Problems of definition of e2e tests, spanning vs not spanning third-party systems
 
 # Test driven development
 
@@ -34,6 +47,8 @@ Write a failing test, well [named](#tests-name), that test a behavior, **not a m
 
 We should test behaviors not classes !
 
+TODO: Here wording needs to be clarified. Our unit tests are calling classes/methods inside the test itself, but the emphasis is on behavior... Also the difference of interpretatation of behavior as outcomes (testing behavior through state), versus interpretation of behavior as interactions.
+
 ### Green - Make it pass ! Fast !
 
 Make it pass with the minimum required code, this step should be fast, it *must* take less than 1 minute,
@@ -44,11 +59,12 @@ if not, it means your step is too big ! [see baby steps for more](#baby-steps)
 
 This is a step that is crucial and most of the time skipped by developers.
 
-In this step, you'll can remove duplicate,  
-introduce some designs patterns, improve code readability.
+In this step, you'll can remove duplicate, introduce some designs patterns, improve code readability.
 
 > **Never** forget to run tests after !!!   
 > This will validate your modifications !
+
+TODO: We also need to point out difference between localized vs more global refactoring... and avoiding premature design patterns.
 
 ## How to choose tests
 
@@ -88,6 +104,8 @@ public void addMoneyUpdateCustomerBalance(){ // -- }
 public void computeXAndYReturnZZ(){ // -- }
 public void startSystemShouldEnableFeaturesXY(){ // -- }
 ```
+
+TODO: Need to list the different variants of naming, for example another convention is with `should`
 
 ## Tests structure patterns
 
@@ -147,6 +165,8 @@ class Test {
 }
 ```
 
+TODO: Describing setup helpers and assertion helpers
+
 ## Test FIRST
 
 ### F for *Fast*
@@ -183,6 +203,8 @@ When we test a function, we need to test for happy and unhappy paths.
 Unit tests should be written just before the production code that makes the test pass.
 
 ## Tests are SOLID
+
+TODO: Let's review this section, what's the source of this?
 
 #### S for *Single responsability principle*
 
