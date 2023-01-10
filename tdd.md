@@ -40,7 +40,7 @@ TODO: Problems of definition of e2e tests, spanning vs not spanning third-party 
 
 ## TDD rules
 
-* [Robert Martin's two rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+* [Robert Martin's three rules](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 
 ```text
 - You are not allowed to write any production code unless it is to make a failing unit test pass.
