@@ -33,7 +33,7 @@ English:
 
 French:
 
-## Blogs
+## Websites / Blogs
 
 English:
 - [The Clean Code Blog (Uncle Bob)](https://blog.cleancoder.com/)
