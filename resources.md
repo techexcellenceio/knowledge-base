@@ -25,14 +25,6 @@ French:
 
 - [Software craft: TDD, Clean Code et autres pratiques essentielles](https://www.amazon.fr/Software-craft-autres-pratiques-essentielles/dp/2100825208)
 
-## Videos
-
-English:
-
-- [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
-
-French:
-
 ## Websites / Blogs
 
 English:
@@ -63,6 +55,16 @@ English / French:
 English:
 - [Tech Excellence](https://www.youtube.com/@TechExcellence)
 - [Continuous Delivery](https://www.youtube.com/@ContinuousDelivery)
+- [JitterTed](https://www.youtube.com/@JitterTed)
 
 English / French:
 - [Software Craftsmanship Luxembourg](https://www.youtube.com/@softwarecraftsmanshipluxem8137)
+
+
+## Videos
+
+English:
+
+- [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+
+French:
