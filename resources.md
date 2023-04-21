@@ -68,3 +68,15 @@ English:
 - [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
 
 French:
+
+
+## Presentations:
+
+English:
+
+French:
+
+Portugese:
+- [Hexagonal Rails (Luiz Costa)](https://speakerdeck.com/gutomcosta/hexagonal-rails)
+
+
