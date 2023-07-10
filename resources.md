@@ -66,6 +66,7 @@ English / French:
 English:
 
 - [TDD, Where Did It All Go Wrong (Ian Cooper)](https://www.youtube.com/watch?v=EZ05e7EMOLM)
+- [The Past (1968) and Future of Domain (driven) Design (Prof. David West)](https://www.youtube.com/watch?v=XH_awPS6hK4)
 
 French:
 
